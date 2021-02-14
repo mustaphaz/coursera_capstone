@@ -1,3 +1,14 @@
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+*.iml
+
+## Directory-based project format:
+!.idea/
+.idea/*
+!.idea/runConfigurations
+/build/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
